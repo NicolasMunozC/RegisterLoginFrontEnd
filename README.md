@@ -8,4 +8,8 @@ This project is just to build easily, saving time.
 
 React JS, Axios, Chakra UI.
 
-<img src="https://user-images.githubusercontent.com/84532538/178086149-9e1b5929-466d-4344-b162-1013f3feee52.png" width='900px' height="600px">
+<h2>Login Page </h2>
+<img src="https://user-images.githubusercontent.com/84532538/178086149-9e1b5929-466d-4344-b162-1013f3feee52.png" width='900px' height="450px">
+
+<h2>Register Page </h2>
+<img src="https://user-images.githubusercontent.com/84532538/178086150-af545686-b413-4d5d-88f9-6d1529c1466b.png" width='900px' height="450px">
