@@ -8,4 +8,4 @@ This project is just to build easily, saving time.
 
 React JS, Axios, Chakra UI.
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='900px' height="600px">
+<img src="https://user-images.githubusercontent.com/84532538/178086149-9e1b5929-466d-4344-b162-1013f3feee52.png" width='900px' height="600px">
